@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="main_group">
+        <rect id="background_rect" x="0" y="0" width="512" height="512" style="fill:rgb(255,217,0);"/>
+        <circle id="circle5" cx="512" cy="512" r="640" style="fill:rgb(255,224,51);"/>
+        <circle id="circle4" cx="512" cy="512" r="512" style="fill:rgb(255,232,102);"/>
+        <circle id="circle3" cx="512" cy="512" r="384" style="fill:rgb(255,240,153);"/>
+        <circle id="circle2" cx="512" cy="512" r="256" style="fill:rgb(255,247,204);"/>
+        <circle id="circle1" cx="512" cy="511" r="128" style="fill:white;"/>
+        <g id="text0" transform="matrix(1,0,0,1,256,120)">
+            <text x="-234.316px" y="0px" style="font-family:'AcademyEngravedLetPlain', 'Academy Engraved LET';font-size:72px;fill:rgb(128,108,0);">CosmicPhotons</text>
+        </g>
+        <g id="text2" transform="matrix(1,0,0,1,256,400)">
+            <g transform="matrix(300,0,0,300,208.5,0)">
+            </g>
+            <text x="-208.5px" y="0px" style="font-family:'AvenirNext-Heavy', 'Avenir Next', sans-serif;font-weight:900;font-size:300px;fill:rgb(75,0,130);">Cp</text>
+        </g>
+    </g>
+</svg>

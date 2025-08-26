@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <use xlink:href="#_Image1" x="0" y="0" width="24px" height="24px"/>
+    <use xlink:href="#_Image1" x="0" y="0" width="24px" height="24px"/>
+    <g transform="matrix(1.42857,0,0,1.42857,-0.428571,-0.857143)">
+        <circle cx="4.5" cy="5.5" r="3.5" style="fill:rgb(122,0,0);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,6)">
+        <circle cx="19.5" cy="7.5" r="4.5" style="fill:rgb(255,1,1);"/>
+    </g>
+    <g transform="matrix(1.11111,0,0,1.25,-0.333333,-3.5)">
+        <ellipse cx="7.5" cy="18" rx="4.5" ry="4" style="fill:rgb(1,255,130);"/>
+    </g>
+    <defs>
+        <image id="_Image1" width="24px" height="24px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAJ0lEQVRIiWNkYGD4z0BDwERLw0ctGLVg1IJRC0YtGLVg1IJRC6gHAO7LAS/zP8atAAAAAElFTkSuQmCC"/>
+    </defs>
+</svg>
