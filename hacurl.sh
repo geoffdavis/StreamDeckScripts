@@ -69,9 +69,9 @@ function hacurlStates
 
 function notifyOfficeVolume
 {
-    # hacurlStates -e media_player.yamaha_receiver_office
+    # hacurlStates -e media_player.denon_office
     logIt CALLING
-    vol=$( hacurlStates -i states -e media_player.yamaha_receiver_office | /usr/local/bin/jq -r ".attributes.volume_level" )
+    vol=$( hacurlStates -i states -e media_player.denon_office | /usr/local/bin/jq -r ".attributes.volume_level" )
 
     vol=$( echo "$vol * 100" | bc -l )
     vol=$(printf "%.0f" $vol)
